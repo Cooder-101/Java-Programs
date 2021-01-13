@@ -19,5 +19,6 @@ public class q3 {
         System.out.println("Course: "+course);
         System.out.println("University roll no.: "+uniroll);
         System.out.println("Semester: "+sem);
+        sr.close();
     }
 }
