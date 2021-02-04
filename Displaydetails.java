@@ -1,12 +1,9 @@
-package lab1;
 import java.util.*;
-
-public class q3 {
+public class Displaydetails {
     public static void main(String[] args) {
         String name, course;
         int uniroll, sem;
         Scanner sr = new Scanner(System.in);
-        
         System.out.println("Enter Name: ");
         name = sr.next();
         System.out.println("Enter Course: ");

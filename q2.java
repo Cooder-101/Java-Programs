@@ -4,7 +4,7 @@ public class q2 {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
         int num,first,last;
-        System.out.println("Enter a number: ");
+        System.out.println("Enter a Three digit number: ");
         num = sr.nextInt();
         last = num%10;
         num/=10;
